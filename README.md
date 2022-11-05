@@ -2,11 +2,11 @@
 <br />
 
 ### Flutter Software Engineer
-<a href="https://www.instagram.com/lazebnyimichael">
-  <img align="left" alt="Michael's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 <a href="https://t.me/mlazebny">
   <img align="left" alt="Michael's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://profile.codersrank.io/user/hawkkiller">
+  <img align="left" alt="Michael's Codersrank" src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white" />
 </a>
 
 <br /> <br />
