@@ -1,6 +1,7 @@
 <img align='right' src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="230">
 <br />
 
+### Flutter Software Engineer
 <a href="https://www.instagram.com/lazebnyimichael">
   <img align="left" alt="Michael's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
@@ -14,9 +15,6 @@ I'm [Michael](https://github.com/hawkkiller/).
 👽 Middle+ Fullstack Developer, Flutter, Golang and automation engineer, programming enthusiast🥸, inventor, open source activist ✌️
 </samp>
 <br />
-
-[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 
 <br /> 
 
