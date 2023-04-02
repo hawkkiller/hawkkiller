@@ -1,6 +1,3 @@
-<img align='right' src="https://github.com/hawkkiller/hawkkiller/blob/main/resources/giphy.gif?raw=true" width="230">
-<br />
-
 ### Flutter Software Engineer
 <a href="https://t.me/mlazebny">
   <img align="left" alt="Michael's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
