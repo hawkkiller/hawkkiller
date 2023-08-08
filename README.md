@@ -8,18 +8,16 @@
 
 <br /> <br />
 <samp>
-Contact Information:
-Email: michael@lazebny.io
-Telegram: @mlazebny
-
 Hi, my name is Michael. I'm a Senior Flutter Developer currently based in Krakow, Poland. I am a versatile T-shaped person with solid expertise in Flutter and related technologies, open source contributor and author of development articles. Looking forward to new professional opportunities.
-
+</samp>
+<br /> <br />
+<samp>
 With over 3 years of commercial experience, I've been involved in various projects of varying size and difficulty, including B2B, Fintech, Social and IoT. I have a solid knowledge of building extensible, supportable and high-performing systems while understanding the business value. I prefer to work as part of a team, but it is also possible for me to work on my own. Focused on results and delivering clean, high-quality code.
-
+</samp>
+<br /> <br />
+<samp>
 I do not cooperate with governments, authoritarian regimes and their supporters. I value democracy and freedom of speech. I seek to contribute to the creation of a world that is joyful and enjoyable to live in.
 </samp>
-<br />
-
 <br /> 
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
