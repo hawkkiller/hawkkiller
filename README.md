@@ -9,7 +9,7 @@
 <br /> <br />
 <samp>
 I'm [Michael](https://github.com/hawkkiller/). 
-👽 Senior Flutter Developer, Golang and automation engineer, programming enthusiast🥸, inventor, open source activist ✌️
+👽 Senior Flutter Developer, interested in backend and automation, programming enthusiast🥸, inventor, open source activist ✌️
 </samp>
 <br />
 
