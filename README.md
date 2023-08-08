@@ -1,4 +1,4 @@
-### Flutter Software Engineer
+### Senior Flutter Developer
 <a href="https://t.me/mlazebny">
   <img align="left" alt="Michael's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
@@ -9,7 +9,7 @@
 <br /> <br />
 <samp>
 I'm [Michael](https://github.com/hawkkiller/). 
-👽 Middle+ Fullstack Developer, Flutter, Golang and automation engineer, programming enthusiast🥸, inventor, open source activist ✌️
+👽 Senior Flutter Developer, Golang and automation engineer, programming enthusiast🥸, inventor, open source activist ✌️
 </samp>
 <br />
 
