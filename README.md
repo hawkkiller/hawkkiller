@@ -16,9 +16,6 @@ With over 3 years of commercial experience, I've been involved in various projec
 </samp>
 <br /> <br />
 <samp>
-I do not cooperate with governments, authoritarian regimes and their supporters. I value democracy and freedom of speech. I seek to contribute to the creation of a world that is joyful and enjoyable to live in.
-</samp>
-<br /> 
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
