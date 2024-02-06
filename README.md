@@ -12,7 +12,7 @@ Hi, my name is Michael. I'm a Senior Flutter Developer currently based in Krakow
 </samp>
 <br /> <br />
 <samp>
-With over 3 years of commercial experience, I've been involved in various projects of varying size and difficulty, including B2B, Fintech, Social and IoT. I have a solid knowledge of building extensible, supportable and high-performing systems while understanding the business value. I prefer to work as part of a team, but it is also possible for me to work on my own. Focused on results and delivering clean, high-quality code.
+With over 4 years of commercial experience, I've been involved in various projects of varying size and difficulty, including B2B, Fintech, Social and IoT. I have a solid knowledge of building extensible, supportable and high-performing systems while understanding the business value. I prefer to work as part of a team, but it is also possible for me to work on my own. Focused on results and delivering clean, high-quality code.
 </samp>
 <br /> <br />
 <samp>
